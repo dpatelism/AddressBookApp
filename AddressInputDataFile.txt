@@ -1,0 +1,48 @@
+Dhruvin
+Patel
+2175 Aborn Rd
+San Jose
+CA
+95121
+dhruvinp94@gmail.com
+408-456-9987
+Shivam
+Pandya
+3300 Snell Ave
+San Jose
+CA
+95123
+Shivam@gmail.com
+408-456-9899
+Baljeet
+Singh
+3014 Linburn Ct
+San Jose
+Ca
+95148
+singh@hotmail.com
+408-456-7777
+Rishi
+Pandit
+2700 Nieman Blvd
+San Jose
+Ca
+95148
+pandit@yahoo.com
+408-456-3333
+PD
+PAPI
+3300 Quimby Rd
+San Jose
+CA
+95148
+papi@yahoo.com
+408-456-1122
+Dhruv
+Pandit
+2860 Silver Creek Rd
+San Jose
+CA
+95121
+pandit@ymail.com
+408-456-9988
